@@ -16,8 +16,8 @@ I try to give back to the community as much as I can.
 
 |                          |          |
 |--------------------------|----------|
-| 💿 Total Downloads       | >700,000 |
-| ⭐️ Total stars on GitHub | >700     |
+| 💿 Total Downloads       | >2M      |
+| ⭐️ Total stars on GitHub | >840     |
 <p align="center">
 </p>
 
